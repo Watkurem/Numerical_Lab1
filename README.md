@@ -12,3 +12,5 @@ Provided implementation of table output will definitely not work on Windows mach
 This table output implementation proved very useful with other labs where I simply reused it.
 
 Assingment *also* involved writing abundant documentation comments for pretty much everything following specific style. It was not required for other labs, so you will not see these comments there.
+
+Makefile is the one I used with many other labs, it's purpose is simply 'compile all sources in the directory into object files and assemble those into an executable'.
